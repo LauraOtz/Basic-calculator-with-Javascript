@@ -1,2 +1,2 @@
-# Basic-calculator-with-Javascript
-##Basic calculator made with HTML - CSS - JAVASCRIPT
+# Basic calculator
+Calculator made with HTML - CSS - JAVASCRIPT
